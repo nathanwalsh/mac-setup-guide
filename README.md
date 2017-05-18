@@ -4,7 +4,7 @@ This document describes how I set up my developer environment on a new Mac for P
 
 A big credit to Sourabh Bajaj's excellent [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/), some sections of this document have come almost directly from there.
 
----
+## Table of Contents
 
 <!-- MarkdownTOC -->
 
