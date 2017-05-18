@@ -200,8 +200,8 @@ brew install unrar
 
 ## Iterm2
 
-- Go to profiles -> Default -> Terminal -> Check silence bell
-- In profiles -> Default -> Colors change the blue colour to `51c6ff` to make it easier to see on the dark background or [download and use on the iTerm2 color schemes](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes).
+1. Go to Profiles > Default > Terminal and check silence bell
+2. In Profiles > Default > Colors change the blue colour to `51c6ff` to make it easier to see on the dark background or [download and use one the iTerm2 color schemes](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes)
 
 ## Git Setup
 
